@@ -38,7 +38,6 @@ button {
 }
 
 a {
-  /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
 }
@@ -62,7 +61,7 @@ ul {
   gap: 16px;
 }
 
-.left, .right {
+.left-links, .right-links {
   display: flex;
   align-items: center;
   gap: 16px;
